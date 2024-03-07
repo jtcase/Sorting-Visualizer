@@ -1,4 +1,4 @@
-# Sorting-Visualizer
+# Sorting-Visualizer in python w/ Tkinter
 
 Currently shows Insertion Sort.
 
